@@ -2,7 +2,7 @@
 
 Projeto feito em dupla com @msgaspar, em que desenvolvemos um jogo de perguntas e respostas baseado no jogo **Trivia** utilizando _React e Redux_, para o módulo de Front-end do curso da Trybe.
 
--
+--
 
 ### How to install
 
@@ -18,7 +18,7 @@ Projeto feito em dupla com @msgaspar, em que desenvolvemos um jogo de perguntas 
 4. Open the project:
 `npm start` (a new page should open in your browser)
 
--
+--
 
 ### O que foi desenvolvido
 
@@ -30,7 +30,7 @@ Jogo de perguntas e respostas baseado no jogo **Trivia** _(tipo um show do milh�
   - Visualizar a página de ranking, se quiser, ao final de cada jogo.
   - Configurar algumas opções para o jogo em uma tela de configuração acessível a partir do cabeçalho do app.
 
--
+--
 
 ### Desenvolvimento
 
