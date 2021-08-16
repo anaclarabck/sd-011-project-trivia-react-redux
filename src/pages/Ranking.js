@@ -14,7 +14,6 @@ class Ranking extends Component {
 
   render() {
     const { ranking } = this.state;
-    console.log(ranking);
     const { history } = this.props;
     return (
       <div className="ranking-container">
