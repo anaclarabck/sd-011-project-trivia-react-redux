@@ -1,8 +1,8 @@
-### About the app
+# About the app
 
 Projeto feito em dupla com Matheus Gaspar, em que desenvolvemos um jogo de perguntas e respostas baseado no jogo **Trivia** utilizando _React e Redux_, para o módulo de Front-end do curso da Trybe.
 
-# How to install
+### How to install
 
 1. Clone the repository:
 `git clone git@github.com:tryber/sd-011-project-trivia-react-redux.git`.
@@ -16,9 +16,7 @@ Projeto feito em dupla com Matheus Gaspar, em que desenvolvemos um jogo de pergu
 4. Open the project:
 `npm start` (a new page should open in your browser)
 
-- 
-
-## O que deverá ser desenvolvido
+### O que deverá ser desenvolvido
 
 Você deverá desenvolver um jogo de perguntas e respostas baseado no jogo **Trivia** _(tipo um show do milhão americano rs)_ utilizando _React e Redux_, desenvolvendo em grupo suas funcionalidades de acordo com as demanas definidas em um quadro _Kanban_. Confira o Slack para saber como acessar o quadro! Para viver um cenário mais próximo do mercado de trabalho, você deve fazer uma cópia desse quadro para utilizar com seu grupo. É de suma importância que o grupo se organize utilizando o quadro para maior eficiência e para que se minimizem os conflitos que a união de vários códigos trará. A partir dessas demandas, teremos uma aplicação onde a pessoa usuária poderá:
 
@@ -28,6 +26,6 @@ Você deverá desenvolver um jogo de perguntas e respostas baseado no jogo **Tri
   - Visualizar a página de ranking, se quiser, ao final de cada jogo.
   - Configurar algumas opções para o jogo em uma tela de configuração acessível a partir do cabeçalho do app.
 
-## Desenvolvimento
+### Desenvolvimento
 
 Você pode acessar um **protótipo** completo da interface desejada para o projeto [**neste link**](https://www.figma.com/file/9XUqIwKEFBfbZn5t8MMZJY/Trivia---project?node-id=0%3A1).
